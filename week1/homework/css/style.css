@@ -1,0 +1,72 @@
+body {
+  background-color: #80012E;
+}
+
+#name 
+ {
+  text-decoration: ;
+  font-family: Georgia;
+  font-size: 50px;
+  font-style: Arial;
+  color: #fff;
+  text-align: center;
+}
+
+#links
+{
+  font-family: Georgia;
+  font-size: 20px;
+  font-style: italic;
+  color: #2C1357;
+  text-align: center;
+}
+
+#metext
+
+{
+  text-decoration: ;
+  font-family: Georgia;
+  font-size: ;
+  font-style: Arial;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+h2 {
+  color: #fff;
+  text-align: center;
+}
+
+h3 {
+  color: #fff;
+}
+
+h4 {
+  color: #fff;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+p {
+  color: #584AA1;  
+  font-size: 13px;
+  font-style: italic;
+}
+
+ul {
+  color: #5c8bba;
+}
+
+ol {
+  color: #5c8bba;
+}
+
+li {
+  font-family: Arial;
+}
+
+div {
+  text-align: center;
+}
